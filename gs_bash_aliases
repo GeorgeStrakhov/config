@@ -1,3 +1,10 @@
+# aliases
 alias rm="rm -i"
-
 alias cdd="cd ~/dev/"
+
+# source nvm
+source ~/.nvm/nvm.sh
+
+# fix multiple cursors plugin for vim (key binding)
+stty ixany
+stty ixoff -ixon
