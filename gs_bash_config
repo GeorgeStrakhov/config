@@ -1,3 +1,6 @@
+# after cloning this directory to ~/dev/config, put the following line at the end of ~/.bashrc
+# source ~/dev/config/gs_bash_config
+
 # aliases
 alias rm="rm -i"
 alias cdd="cd ~/dev/"

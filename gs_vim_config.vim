@@ -1,3 +1,12 @@
+" install vimrc awesome from here: https://github.com/amix/vimrc
+" clone this config repo to ~/dev/config
+" then edit ~/.vimrc file and add the following
+
+" try
+" source ~/dev/config/gs_vim_config.vim
+" catch
+" endtry
+
 " settings
 set nu
 set cmdheight=1
