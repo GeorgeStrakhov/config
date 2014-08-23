@@ -4,6 +4,7 @@
 # aliases
 alias rm="rm -i"
 alias cdd="cd ~/dev/"
+alias composer="/usr/local/bin/composer.phar"
 
 # source nvm
 source ~/.nvm/nvm.sh
