@@ -4,10 +4,6 @@
 # aliases
 alias rm="rm -i"
 alias cdd="cd ~/dev/"
-alias composer="/usr/local/bin/composer/composer.phar"
-
-# source nvm
-source ~/.nvm/nvm.sh
 
 # fix multiple cursors plugin for vim (key binding)
 stty ixany
