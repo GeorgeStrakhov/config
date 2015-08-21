@@ -7,3 +7,7 @@ alias cdd="cd ~/dev/"
 # fix multiple cursors plugin for vim (key binding)
 stty ixany
 stty ixoff -ixon
+
+# nvm
+export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
