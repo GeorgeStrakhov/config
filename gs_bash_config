@@ -2,7 +2,6 @@
 # source ~/dev/config/gs_bash_config
 
 # aliases
-alias rm="rm -i"
 alias cdd="cd ~/dev/"
 
 # fix multiple cursors plugin for vim (key binding)
