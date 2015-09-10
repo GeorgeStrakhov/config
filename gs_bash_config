@@ -3,6 +3,7 @@
 
 # aliases
 alias cdd="cd ~/dev/"
+alias server="python -m SimpleHTTPServer 8000"
 
 # fix multiple cursors plugin for vim (key binding)
 stty ixany
