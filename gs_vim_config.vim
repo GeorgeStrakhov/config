@@ -13,7 +13,6 @@ set cmdheight=1
 set shiftwidth=2
 set tabstop=2
 
-
 " Key mappings
 nmap <S-j> :m .+1<CR>==
 nmap <S-k> :m .-2<CR>==
@@ -23,3 +22,5 @@ nmap <F3> :setlocal spell!<CR>
 
 " Nerd tree on the left
 let g:NERDTreeWinPos = "left"
+" vim-processing, don't mess around with my key bindings
+let g:processing_no_default_mappings = 1
