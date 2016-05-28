@@ -6,6 +6,7 @@ alias cdd="cd ~/dev/"
 alias cdp="cd ~/Dropbox/play/processing3/"
 alias server="python -m SimpleHTTPServer 8000"
 alias runsketch="~/dev/config/runprocessing.sh"
+alias gh-deploy="~/dev/config/gh-deploy.sh"
 
 # fix multiple cursors plugin for vim (key binding)
 stty ixany
