@@ -20,3 +20,6 @@ export NVM_DIR="$HOME/.nvm"
 export CLICOLOR=1
 export TERM=xterm-256color
 export EDITOR='vim'
+
+#yarn
+export PATH="$PATH:`yarn global bin`"

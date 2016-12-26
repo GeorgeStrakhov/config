@@ -12,6 +12,7 @@ set nu
 set cmdheight=1
 set shiftwidth=2
 set tabstop=2
+set autoread
 
 " Key mappings
 nmap <S-j> :m .+1<CR>==
@@ -24,3 +25,6 @@ nmap <F3> :setlocal spell!<CR>
 let g:NERDTreeWinPos = "left"
 " vim-processing, don't mess around with my key bindings
 let g:processing_no_default_mappings = 1
+
+" JSX highlighting for .js file "
+let g:jsx_ext_required = 0
